@@ -51,7 +51,7 @@ var (
 
 var (
 	host = []string{
-		fmt.Sprintf("ws://%s/ws", "13.228.240.187:8080"),
+		fmt.Sprintf("ws://%s/ws", "13.228.240.187:8082"),
 	}
 )
 

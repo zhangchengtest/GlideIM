@@ -4,11 +4,11 @@ Port = 8081
 
 [WsServer]
 Addr = "0.0.0.0"
-Port = 8080
+Port = 8082
 
 [IMService]
 # IM 服务的地址
-Service = "13.228.240.187:8080"
+Service = "13.228.240.187:8082"
 Addr = "0.0.0.0"
 Port = 8081
 
