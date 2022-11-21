@@ -8,20 +8,20 @@ Port = 8080
 
 [IMService]
 # IM 服务的地址
-Service = "127.0.0.1:8080"
+Service = "13.228.240.187:8080"
 Addr = "0.0.0.0"
 Port = 8081
 
 [MySql]
-Host = "dengzii.com"
+Host = "172.31.21.3"
 Port = 3306
-Username = "go_im_test"
-Password = "8dmaRNCYBFHP4F67"
+Username = "root"
+Password = "abcd@1234"
 Db = "go_im_test"
 Charset = "utf8mb4"
 
 [Redis]
-Host = "dengzii.com"
-Port = 6378
-Password = "tcmm1713."
+Host = "172.31.21.3"
+Port = 6379
+Password = ""
 Db = 9

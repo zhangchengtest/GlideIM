@@ -27,7 +27,7 @@ var avatars = []string{
 	"http://dengzii.com/static/k.webp",
 	"http://dengzii.com/static/l.webp",
 	"http://dengzii.com/static/m.webp",
-	"http://dengzii.com/static/n.webp",
+	"http://music.punengshuo.com/static/n.webp",
 	"http://dengzii.com/static/o.webp",
 	"http://dengzii.com/static/p.webp",
 	"http://dengzii.com/static/q.webp",
@@ -51,7 +51,7 @@ var (
 
 var (
 	host = []string{
-		fmt.Sprintf("ws://%s/ws", "127.0.0.1:8080"),
+		fmt.Sprintf("ws://%s/ws", "13.228.240.187:8080"),
 	}
 )
 
